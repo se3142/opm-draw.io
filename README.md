@@ -1,6 +1,8 @@
 # opm-draw.io
 
-Draw.io template/diagram containing [ISO 19450 Object process methodology (OPM)](https://en.wikipedia.org/wiki/Object_Process_Methodology) shapes.
+Draw.io template/diagram containing [Object process methodology (OPM)](https://en.wikipedia.org/wiki/Object_Process_Methodology) (ISO 19450) shapes.
+
+Object Process Methodology (OPM) is a way to model systems by showing how objects and processes interact. An OPM diagram describes a system's structure, behavior, and how everything works together, making complex ideas easy to understand.
 
 ## Quick Start
 
