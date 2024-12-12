@@ -6,14 +6,19 @@ Draw.io template/diagram containing [ISO 19450 Object process methodology (OPM)]
 
 Open [draw.io online](https://app.diagrams.net/) or desktop.
 
-The file _Object-Process Methodology (OPM).xml_ is a library definition that can be imported and provides the shapes as a library.
+The file [_Object-Process Methodology (OPM).xml_](https://raw.githubusercontent.com/se3142/opm-draw.io/refs/heads/main/Object-Process%20Methodology%20(OPM).xml) is a library definition that can be imported and provides the shapes as a library.
 
-To import the shapes library, download the XML. Then, in draw.io, go to File -> Open library from -> Device and select the XML file from your device.
+![screenshot of imported open-draw.io library](https://raw.githubusercontent.com/se3142/opm-draw.io/refs/heads/main/screenshot_opm-draw.io.png)
 
-### draw.io online (with locally downloaded XML)
+### draw.io online
 
 1. Download library file
 2. File -> Open library from -> Device and select the XML file from your device.
+
+or
+
+1. File -> Open library from -> URL
+2. Enter `https://raw.githubusercontent.com/se3142/opm-draw.io/refs/heads/main/Object-Process%20Methodology%20(OPM).xml`
 
 ### draw.io Desktop
 
@@ -22,3 +27,4 @@ To import the shapes library, download the XML. Then, in draw.io, go to File -> 
 
 ## Example
 
+[![opm-draw.io example](https://raw.githubusercontent.com/se3142/opm-draw.io/refs/heads/main/Example%20OPM%20Car%20Manufacturing.png)](https://raw.githubusercontent.com/se3142/opm-draw.io/refs/heads/main/Example%20OPM%20Car%20Manufacturing.pdf)
