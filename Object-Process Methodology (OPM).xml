@@ -1,0 +1,226 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"Object\" tooltip=\"object\" id=\"2\"&gt;&lt;mxCell style=\"shape=object;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;container=1;dropTarget=1;recursiveResize=0;collapsible=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "object"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"Physical Object\" tooltip=\"physical object\" id=\"2\"&gt;&lt;mxCell style=\"shape=&amp;quot;phyiscal object&amp;quot;;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;shadow=1;shadowOpacity=100;strokeColor=default;shadowColor=#AAAAAA;shadowOffsetX=5;shadowBlur=0;shadowOffsetY=5;dropTarget=1;container=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "physical object"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"Env. Object\" tooltip=\"environmental object\" id=\"2\"&gt;&lt;mxCell style=\"shape=&amp;quot;environmental object&amp;quot;;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;shadow=0;shadowOpacity=100;strokeColor=default;shadowColor=#AAAAAA;shadowOffsetX=5;shadowBlur=0;shadowOffsetY=5;dashed=1;dropTarget=1;container=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "environmental object"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Specification\" style=\"shape=object;rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;verticalAlign=top;treeMoving=0;treeFolding=0;backgroundOutline=0;collapsible=0;dropTarget=1;container=1;recursiveResize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"280\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;UserObject label=\"initial state\" tooltip=\"state\" id=\"3\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#AAAAAA;strokeWidth=1;fontSize=10;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"10\" y=\"35\" width=\"80\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;UserObject label=\"\" tooltip=\"default state\" id=\"4\"&gt;&lt;mxCell style=\"rounded=0;whiteSpace=wrap;html=1;container=0;strokeColor=none;fillColor=none;recursiveResize=0;fontSize=10;dropTarget=0;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"90\" y=\"25\" width=\"90\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;UserObject label=\"default state\" tooltip=\"default state\" id=\"5\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#AAAAAA;strokeWidth=1;fontSize=10;\" vertex=\"1\" parent=\"4\"&gt;&lt;mxGeometry x=\"10\" y=\"10\" width=\"80\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"6\" value=\"\" style=\"endArrow=open;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;startSize=3;endSize=3;\" edge=\"1\" parent=\"4\" source=\"4\" target=\"5\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"110\" y=\"-4\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"160\" y=\"-54\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;UserObject label=\"\" tooltip=\"final state\" id=\"7\"&gt;&lt;mxCell style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#AAAAAA;strokeWidth=1;container=0;dropTarget=0;fontSize=10;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"190\" y=\"35\" width=\"80\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"8\" value=\"final state\" style=\"rounded=1;whiteSpace=wrap;html=1;strokeColor=#AAAAAA;strokeWidth=1;fontSize=10;points=[];\" vertex=\"1\" parent=\"7\"&gt;&lt;mxGeometry x=\"1.5\" y=\"1.818181818181818\" width=\"77\" height=\"16.363636363636363\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 280,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "stateful object"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"Processing\" tooltip=\"process\" id=\"2\"&gt;&lt;mxCell style=\"ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;dropTarget=1;container=1;recursiveResize=0;collapsible=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "process"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"Processing\" tooltip=\"physical process\" id=\"2\"&gt;&lt;mxCell style=\"ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;textShadow=0;shadow=1;shadowOffsetX=7;shadowOffsetY=7;shadowBlur=0;shadowOpacity=100;shadowColor=#AAAAAA;container=1;dropTarget=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "physical process"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"Processing\" tooltip=\"environmental process\" id=\"2\"&gt;&lt;mxCell style=\"ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;textShadow=0;shadow=0;shadowOffsetX=7;shadowOffsetY=7;shadowBlur=0;shadowOpacity=100;shadowColor=#AAAAAA;dashed=1;container=1;dropTarget=1;collapsible=0;recursiveResize=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "environmental process"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"aggregation-participation\" id=\"2\"&gt;&lt;mxCell style=\"triangle;whiteSpace=wrap;html=1;rotation=-90;points=[[0,0.1,0,0,0],[0,0.3,0,0,0],[0,0.5,0,0,0],[0,0.7,0,0,0],[0,0.9,0,0,0],[1,0.5,0,0,0]];strokeWidth=2;fillColor=#000000;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"15\" width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;endFill=0;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"15\" y=\"60\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"30\" y=\"52.5\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"14.8125\" y=\"-7.5\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"15\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "aggregation-participation"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"exhibition-characterization\" id=\"2\"&gt;&lt;mxCell style=\"triangle;whiteSpace=wrap;html=1;rotation=-90;points=[[0,0.1,0,0,0],[0,0.3,0,0,0],[0,0.5,0,0,0],[0,0.7,0,0,0],[0,0.9,0,0,0],[1,0.5,0,0,0]];strokeWidth=2;fillColor=#AAAAAA;container=0;recursiveResize=1;dropTarget=0;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"15\" width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"\" style=\"triangle;whiteSpace=wrap;html=1;rotation=-90;points=[];strokeWidth=1;fillColor=#000000;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"8.4375\" y=\"10.500000000000005\" width=\"13.125\" height=\"13.500000000000005\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"15\" y=\"60\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"-15\" y=\"52.5\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=none;html=1;rounded=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-15\" y=\"22.5\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"15\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "exhibition-characterization"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"generalization-specialization\" id=\"2\"&gt;&lt;mxCell style=\"triangle;whiteSpace=wrap;html=1;rotation=-90;points=[[0,0.1,0,0,0],[0,0.3,0,0,0],[0,0.5,0,0,0],[0,0.7,0,0,0],[0,0.9,0,0,0],[1,0.5,0,0,0]];strokeWidth=2;fillColor=#AAAAAA;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"15\" width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"15\" y=\"60\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"-52.5\" y=\"60\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-52.5\" y=\"30\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"15\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "generalization-specialization"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"classification-instantiation\" id=\"2\"&gt;&lt;mxCell style=\"triangle;whiteSpace=wrap;html=1;rotation=-90;points=[[0,0.1,0,0,0],[0,0.3,0,0,0],[0,0.5,0,0,0],[0,0.7,0,0,0],[0,0.9,0,0,0],[1,0.5,0,0,0]];strokeWidth=2;fillColor=#AAAAAA;container=0;recursiveResize=1;dropTarget=0;aspect=fixed;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"15\" width=\"30\" height=\"30\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;points=[];\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry x=\"9.375000000000002\" y=\"14.247500000000006\" width=\"11.25\" height=\"11.25\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;\" edge=\"1\" target=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"15\" y=\"60\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"-105\" y=\"67.5\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=none;html=1;rounded=0;startArrow=none;startFill=0;edgeStyle=orthogonalEdgeStyle;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;\" edge=\"1\" source=\"2\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"-105\" y=\"37.5\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"15\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 30,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "classification-instantiation"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"tag\" tooltip=\"unidirectional tagged structural link\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=open;html=1;rounded=0;endFill=0;labelBackgroundColor=none;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"14\" width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "unidirectional tagged structural link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"bi-tag\" tooltip=\"bidirectional tagged structural link\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=openAsync;html=1;rounded=0;endFill=0;startArrow=openAsync;startFill=0;labelBackgroundColor=none;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0.0017\" y=\"14\" width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "bidirectional tagged structural link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"agent link (process X handles Y)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=oval;html=1;rounded=0;endFill=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "agent link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"instrument link (process X requires Y)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=oval;html=1;rounded=0;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "instrument link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"effect link (consumption or result)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "consumption / result link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"effect link (consumption and result)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=classic;startFill=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "effect link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"agent event link (X initiates and handles process Y)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=oval;html=1;rounded=0;endFill=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"e\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.25\" y=\"-1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"4\" y=\"-16\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "agent event link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"instrument event link ( X inititaltes and requires process Y)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=oval;html=1;rounded=0;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"e\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.25\" y=\"-1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"4\" y=\"-16\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "instrument event link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"e\" tooltip=\"consumption event link (X initiates process)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;labelBackgroundColor=none;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0.775\" y=\"11\" width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "consumption event link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"e\" tooltip=\"effect event link (X initiates process, which affects X)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=classic;startFill=1;labelBackgroundColor=none;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0.775\" y=\"11\" width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "effect event link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"agent condition link (process handles X if X is present/exists)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=oval;html=1;rounded=0;endFill=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"c\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.25\" y=\"-1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"4\" y=\"-16\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "agent condition link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"instrumental condition link (process occurs, if X is present/exists)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=oval;html=1;rounded=0;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"c\" style=\"edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;\" vertex=\"1\" connectable=\"0\" parent=\"2\"&gt;&lt;mxGeometry x=\"0.25\" y=\"-1\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"4\" y=\"-16\" as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "instrumental condition link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"c\" tooltip=\"consumption condition link (if X exists, process consumes X)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;labelBackgroundColor=none;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0.775\" y=\"11\" width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "consumption condition link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"c\" tooltip=\"consumption condition link (if X exists, process affects X)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=classic;startFill=1;labelBackgroundColor=none;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0.775\" y=\"11\" width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;mxPoint as=\"offset\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "effect condition link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"invocation link (process X invokes process Y)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;edgeStyle=isometricEdgeStyle;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "invocation link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"invocation link (process X invokes process Y)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;edgeStyle=isometricEdgeStyle;elbow=vertical;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" y=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "invocation link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"self-invocation link (recurrent process self invocation)\" id=\"2\"&gt;&lt;mxCell style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"40\" height=\"20\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;edgeStyle=isometricEdgeStyle;elbow=vertical;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"20\" y=\"20\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;edgeStyle=isometricEdgeStyle;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint x=\"20\" y=\"20\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 20,
+    "aspect": "fixed",
+    "title": "self-invocation link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"over-time exception link&amp;#10;(process exceeds maximal duration value)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=ERone;html=1;rounded=0;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "over-time exception link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"under-time exception link&amp;#10;(process takes less than minimal duration value)\" id=\"2\"&gt;&lt;mxCell style=\"endArrow=ERmandOne;html=1;rounded=0;endFill=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "under-time exception link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;UserObject label=\"\" tooltip=\"XOR\" id=\"2\"&gt;&lt;mxCell style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.9904621378820819;endAngle=0.5252507692245065;dashed=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"26.25\" width=\"30\" height=\"27.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"3\" value=\"\" style=\"group;dropTarget=0;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;\" edge=\"1\" parent=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;\" edge=\"1\" parent=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" y=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;\" edge=\"1\" parent=\"3\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" y=\"80\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "XOR"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"group;dropTarget=0;\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" y=\"40\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;endFill=1;startArrow=none;startFill=0;\" edge=\"1\" parent=\"2\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"40\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"40\" y=\"80\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;UserObject label=\"\" tooltip=\"OR\" id=\"6\"&gt;&lt;mxCell style=\"group\" vertex=\"1\" connectable=\"0\" parent=\"1\"&gt;&lt;mxGeometry y=\"20\" width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/UserObject&gt;&lt;mxCell id=\"7\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.9904621378820819;endAngle=0.5015914963824541;dashed=1;\" vertex=\"1\" parent=\"6\"&gt;&lt;mxGeometry width=\"40\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"8\" value=\"\" style=\"verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.9904621378820819;endAngle=0.5069913212692764;dashed=1;\" vertex=\"1\" parent=\"6\"&gt;&lt;mxGeometry y=\"6.25\" width=\"30\" height=\"27.5\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "OR"
+  }
+]</mxlibrary>
